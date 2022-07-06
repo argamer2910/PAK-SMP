@@ -1,0 +1,5 @@
+{
+       "ip":"Pak_SMPlands.aternos.me"
+       "port":"20177"
+       "name":"PAK SMP""
+}
